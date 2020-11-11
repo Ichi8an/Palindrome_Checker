@@ -17,7 +17,7 @@ for letters in stringList:
 
 # if the word backwards is the same as it is in normal form:
 if string == string1:
-    print("Yor word is a palindrome!")
+    print("Your word is a palindrome!")
 else:
     print(string1 + " is not a palindrome.")
 
